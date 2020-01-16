@@ -1,0 +1,6 @@
+{
+	"name": "Pegawai",
+	"version": "0.0.0",
+	"private": true,
+	"main": "./Pegawai.js"
+}

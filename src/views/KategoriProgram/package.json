@@ -1,0 +1,6 @@
+{
+	"name": "Kategori Program",
+	"version": "0.0.0",
+	"private": true,
+	"main": "./KategoriProgram.js"
+}

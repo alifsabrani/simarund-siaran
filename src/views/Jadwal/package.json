@@ -1,0 +1,6 @@
+{
+	"name": "Jadwal",
+	"version": "0.0.0",
+	"private": true,
+	"main": "./Jadwal.js"
+}
