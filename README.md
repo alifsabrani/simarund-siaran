@@ -1,3 +1,5 @@
-# Deprecated! All files will be moved to new repository.
+Sistem Informasi Manajemen Rundown Siaran
 
-We decided to move React Version to separate repository. You can find all files here: [CoreUI React Version](https://github.com/mrholek/CoreUI-React)
+Build with love and supported by ReactJS and CoreUI
+
+Use Laravel as Backend API Server
